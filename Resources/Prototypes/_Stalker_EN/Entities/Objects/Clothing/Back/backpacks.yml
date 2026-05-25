@@ -24,7 +24,9 @@
     blacklist:
       tags:
       - STArtifact
-      
+  - type: Sprite
+    sprite: _Stalker_EN/Objects/Clothing/backpacks/smuggler_backpack.rsi
+
 - type: entity
   parent: STClothingBackBase
   id: ClothingBackpackDuffelClearSky
